@@ -1,0 +1,6 @@
+{
+  "name": "SynapseLab 3D — Neural Network Architecture & Backpropagation Studio",
+  "description": "Interactive 3D Artificial Neural Network visualizer and backpropagation training laboratory built with Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
